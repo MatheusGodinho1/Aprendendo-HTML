@@ -1,11 +1,7 @@
 body{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #217373;
-    color: #84B026;
+    background-color: #EAF8BF;
 }
-h2{
-    background-color:#173540 ;
-}
-h1{
 
+a:visited{
+    color: black;
 }
